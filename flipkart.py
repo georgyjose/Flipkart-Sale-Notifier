@@ -30,9 +30,5 @@ def pricecheck(url):
                 break
 
 url1 = "https://www.flipkart.com/redmi-note-9-pro-aurora-blue-128-gb/p/itma84d60532d415"
-url2 = "https://www.flipkart.com/redmi-note-9-pro-interstellar-black-128-gb/p/itma84d60532d415"
-url3 = "https://www.flipkart.com/redmi-note-9-pro-glacier-white-128-gb/p/itm47612dff3ea66"
 
 pricecheck(url1)
-pricecheck(url2)
-pricecheck(url3)
